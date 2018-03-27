@@ -25,14 +25,14 @@ En raison des nombreux presets, la ZOVER4RECALBOX Collection est séparée en pl
 
 Choisir les fichiers de configuration adaptés (.cfg)
 ====================================================
-Nomenclature des répertoires : rb-pack[NUMERO]-[STYLE]-systems-[TAILLE] :
+Nomenclature des répertoires : pack[NUMERO]-[STYLE]-systems-[TAILLE] :
 - [NUMERO] correspond au numéro du pack,
 - [STYLE] Deux styles selon les variantes. Le style 'grid' qui inclus un effet de grille/CRT. Le style 'clean' sans effet de grille.
 - [TAILLE] à la résolution en hauteur de votre écran
 
 Exemple avec le pack 01 sans effet de grille/CRT :
-- Si vous utilisez une resolution de 1280x720 pixels, aller dans : /recalbox/share/system/configs/retroarch/rb-pack01-clean-systems-720
-- Si vous utilisez une résolution de 1920x1080 pixels aller dans : /recalbox/share/system/configs/retroarch/rb-pack01-clean-systems-1080
+- Si vous utilisez une resolution de 1280x720 pixels, aller dans : /recalbox/share/system/configs/retroarch/zover4recalbox-presets/pack01-clean-systems-720
+- Si vous utilisez une résolution de 1920x1080 pixels aller dans : /recalbox/share/system/configs/retroarch/zover4recalbox-presets/pack01-clean-systems-1080
 
 - Copier les fichiers .cfg des machines que vous souhaitez habiller (3do.cfg, amstradcpc.cfg, etc) dans : /recalbox/share/system/configs/retroarch
 
