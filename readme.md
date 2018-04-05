@@ -15,8 +15,8 @@ Installer le pack de d'overlay
 ==============================
 En raison des nombreux presets, la ZOVER4RECALBOX Collection est séparée en plusieurs volumes.
 
-- [Téléchargez ici pour le volume 1](https://github.com/gallyg/zover4recalBox-vol-1/archive/master.zip)
-- [Téléchargez ici pour le volume 2](https://github.com/gallyg/zover4recalBox-vol-2/archive/master.zip)
+- [Téléchargez ici le volume 1](https://github.com/gallyg/zover4recalBox-vol-1/archive/master.zip)
+- [Téléchargez ici le volume 2](https://github.com/gallyg/zover4recalBox-vol-2/archive/master.zip)
 
 - Copier les répertoires du pack dans le répertoire suivant de votre Recalbox : /recalbox/share/system/configs/retroarch/
 - Le répertoire 'overlays' contient les élements graphiques
