@@ -127,7 +127,7 @@ Activer les overlays Vectrex :
 
 Exemple : Pour afficher l'overlay de Bedlam votre ROM doit être nommée ainsi 'Bedlam (USA, Europe).zip'.
 
-![Bedlam pack Vectrex](https://raw.githubusercontent.com/gallyg/zover4recalbox-vectrex/blob/master/overlays/pack-vectrex-720/Bedlam.png)
+![Bedlam pack Vectrex](https://raw.githubusercontent.com/gallyg/zover4recalbox-vectrex/master/overlays/pack-vectrex-720/Bedlam%20(USA%2C%20Europe).png)
 
 - [Téléchargez ici le pack Vectrex](https://github.com/gallyg/zover4recalbox-vectrex/archive/master.zip)
 
