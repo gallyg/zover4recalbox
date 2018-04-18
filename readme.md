@@ -15,8 +15,15 @@ Installer le pack de d'overlay
 ==============================
 En raison des nombreux presets, la ZOVER4RECALBOX Collection est séparée en plusieurs volumes.
 
-- [Téléchargez ici le volume 1](https://github.com/gallyg/zover4recalBox-vol-1/archive/master.zip)
-- [Téléchargez ici le volume 2](https://github.com/gallyg/zover4recalBox-vol-2/archive/master.zip)
+- [Téléchargez ici le pack 1](https://github.com/gallyg/zover4recalbox-pack-01/archive/master.zip)
+- [Téléchargez ici le pack 2](https://github.com/gallyg/zover4recalbox-pack-02/archive/master.zip)
+- [Téléchargez ici le pack 3](https://github.com/gallyg/zover4recalbox-pack-03/archive/master.zip)
+- [Téléchargez ici le pack 4](https://github.com/gallyg/zover4recalbox-pack-04/archive/master.zip)
+- [Téléchargez ici le pack 5](https://github.com/gallyg/zover4recalbox-pack-05/archive/master.zip)
+- [Téléchargez ici le pack 6](https://github.com/gallyg/zover4recalbox-pack-06/archive/master.zip)
+- [Téléchargez ici le pack 8](https://github.com/gallyg/zover4recalbox-pack-08/archive/master.zip)
+- [Téléchargez ici le pack Vectrex](https://github.com/gallyg/zover4recalbox-vectrex/archive/master.zip)
+- [Téléchargez ici le pack handhelds](https://github.com/gallyg/pack-handhelds/archive/master.zip)
 
 - Copier les répertoires du pack dans le répertoire suivant de votre Recalbox : /recalbox/share/system/configs/retroarch/
 - Le répertoire 'overlays' contient les élements graphiques
@@ -44,56 +51,68 @@ Certains packs contiennent des dossiers 'fba_libretro' et 'mame' pour gerer de f
 Ces dossiers sont à copier dans le répertoire suivant de votre Recalbox : /recalbox/share/system/configs/retroarch/
 
 
-Aperçu pack 01 (volume 1)
-=========================
+Aperçu pack 01
+==============
 ![3DO pack 01](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack01-clean-720/3do.png)
 ![Atari 2600 pack 01](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack01-clean-720/atari2600.png)
 ![Megadrive pack 01](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack01-clean-720/megadrive.png)
 ![Super Nintendo pack 01](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack01-clean-720/snes.png)
 
+- [Téléchargez ici le pack 1](https://github.com/gallyg/zover4recalbox-pack-01/archive/master.zip)
 
-Aperçu pack 02 (4/3 - pixel perfect) (volume 1)
-===============================================
+
+Aperçu pack 02 (4/3 - pixel perfect)
+====================================
 Machines pixel perfect : Master System, Megadrive, Neo-Geo, NES, PC Engine, PC Engine CD, Sega 32X, Sega CD, SuperGrafx.
 Pour les machines "pixel perfect" citées ci-dessus, les presets 4/3 sont disponibles dans le sous-répertoire '4-3-presets'.
 
 ![4/3 pack 02](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack02-clean-720/4-3.png)
 ![GBA pack 02](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack02-clean-720/gba-lg.png)
 
+- [Téléchargez ici le pack 2](https://github.com/gallyg/zover4recalbox-pack-02/archive/master.zip)
 
-Aperçu pack 03 (4/3 - pixel perfect) (volume 1)
-===============================================
+
+Aperçu pack 03 (4/3 - pixel perfect)
+====================================
 Machines pixel perfect : Master System, Megadrive, Neo-Geo, NES, PC Engine, PC Engine CD, Sega 32X, Sega CD, SuperGrafx.
 Pour les machines "pixel perfect" citées ci-dessus, les presets 4/3 sont disponibles dans le sous-répertoire '4-3-presets'.
 
 ![4/3 pack 03](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack03-clean-720/4-3.png)
 ![GBA pack 03](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack03-clean-720/gba-lg.png)
 
+- [Téléchargez ici le pack 3](https://github.com/gallyg/zover4recalbox-pack-03/archive/master.zip)
 
-Aperçu pack 04 (4/3 - pixel perfect) (volume 1)
-===============================================
+
+Aperçu pack 04 (4/3 - pixel perfect)
+====================================
 Machines pixel perfect : Master System, Megadrive, Neo-Geo, NES, PC Engine, PC Engine CD, Sega 32X, Sega CD, SuperGrafx.
 Pour les machines "pixel perfect" citées ci-dessus, les presets 4/3 sont disponibles dans le sous-répertoire '4-3-presets'.
 
 ![4/3 pack 04](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack04-clean-720/4-3.png)
 ![GBA pack 04](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack04-clean-720/gba-lg.png)
 
+- [Téléchargez ici le pack 4](https://github.com/gallyg/zover4recalbox-pack-04/archive/master.zip)
 
-Aperçu pack 05 - Arcade (4/3) (volume 1)
-========================================
+
+Aperçu pack 05 - Arcade (4/3)
+=============================
 ![4/3 pack 05](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack05-grid-1080/4-3.png)
 ![3/4 pack 05](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack05-grid-1080/3-4.png)
 
+- [Téléchargez ici le pack 5](https://github.com/gallyg/zover4recalbox-pack-05/archive/master.zip)
 
-Aperçu pack handhelds (consoles portables) (volume 1)
-=====================================================
+
+Aperçu pack handhelds (consoles portables)
+==========================================
 ![Gameboy pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack-handhelds-clean-720/gb.png)
 ![Gameboy Color pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack-handhelds-clean-720/gbc.png)
 ![Game Gear pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack-handhelds-clean-720/gg.png)
 
+- [Téléchargez ici le pack handhelds](https://github.com/gallyg/pack-handhelds/archive/master.zip)
 
-Vectrex (volume 1)
-==================
+
+Vectrex
+=======
 Bien que l'écran soit monochrome noir et blanc, tous les jeux de la Vectrex étaient fournis avec un filtre en plastique coloré qui devait être glissé devant l'écran.
 
 Les overlays inclus dans ce pack permettent de simuler ces filtres.
@@ -109,6 +128,8 @@ Activer les overlays Vectrex :
 Exemple : Pour afficher l'overlay de Bedlam votre ROM doit être nommée ainsi 'Bedlam (USA, Europe).zip'.
 
 ![Bedlam pack Vectrex](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/rb-pack-vectrex-720/vectrex/Bedlam%20(USA%2C%20Europe).png)
+
+- [Téléchargez ici le pack Vectrex](https://github.com/gallyg/zover4recalbox-vectrex/archive/master.zip)
 
 
 Aperçu pack 06 - SNES mini (4/3) (volume 2)
@@ -153,6 +174,9 @@ Copier l'ensemble les fichiers .cfg (3do.cfg, amstradcpc.cfg, etc) dans : /recal
 -----------
 ![4/3 11-midnight pack 06](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-2/master/overlays/pack06-grid-720/11-midnight/4-3.png)
 
+- [Téléchargez ici le pack 6](https://github.com/gallyg/zover4recalbox-pack-06/archive/master.zip)
+
+
 Aperçu pack 07 (4/3) (volume 2)
 ===============================
 Coming soon...
@@ -177,6 +201,8 @@ Aperçu pack 08 (4/3) (volume 2)
 06 My little poney
 ------------------
 ![4/3 06 My little poney pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-2/master/overlays/pack08-clean-720/06-my-little-poney/4-3.png)
+
+- [Téléchargez ici le pack 8](https://github.com/gallyg/zover4recalbox-pack-08/archive/master.zip)
 
 
 Changelog
