@@ -230,7 +230,7 @@ Le pack contient 1220 overlays arcade.
 Copier le répertoire 'mame' et/ou 'fba_libretro' dans : /recalbox/share/system/configs/retroarch
 
 ![19xx](https://raw.githubusercontent.com/gallyg/zover4recalbox-arcade-artwork/master/overlays/pack-arcade-artwork-720/19xx.png)
-![afighter](https://raw.githubusercontent.com/gallyg/zover4recalbox-arcade-artwork/master/overlayspack-arcade-artwork-720/afighter.png)
+![afighter](https://raw.githubusercontent.com/gallyg/zover4recalbox-arcade-artwork/master/overlays/pack-arcade-artwork-720/afighter.png)
 ![sf2hf](https://raw.githubusercontent.com/gallyg/zover4recalbox-arcade-artwork/master/overlays/pack-arcade-artwork-720/sf2hf.png)
 
 - [Téléchargez ici le pack Arcade artwork](https://github.com/gallyg/zover4recalbox-arcade-artwork/archive/master.zip)
