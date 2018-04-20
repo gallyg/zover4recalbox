@@ -115,40 +115,6 @@ Aperçu pack 05 - Arcade (4/3)
 *Crédits : MezzB's (https://sites.google.com/view/mezzb-overlay/home)*
 
 
-Aperçu pack handhelds (consoles portables)
-------------------------------------------
-![Gameboy pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalbox-handhelds/master/overlays/pack-handhelds-clean-720/gb.png)
-![Gameboy Color pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalBox-handhelds/master/overlays/pack-handhelds-clean-720/gbc.png)
-![Game Gear pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalBox-handhelds/master/overlays/pack-handhelds-clean-720/gg.png)
-
-- [Téléchargez ici le pack handhelds](https://github.com/gallyg/pack-handhelds/archive/master.zip)
-
-*Crédits : MezzB's (https://sites.google.com/view/mezzb-overlay/home)*
-
-
-Vectrex
--------
-Bien que l'écran soit monochrome noir et blanc, tous les jeux de la Vectrex étaient fournis avec un filtre en plastique coloré qui devait être glissé devant l'écran.
-
-Les overlays inclus dans ce pack permettent de simuler ces filtres.
-
-Activer les overlays Vectrex :
-- Si vous utilisez une resolution de 1280x720 pixels, aller dans : /recalbox/share/system/configs/retroarch/rb-pack-vectrex-720
-- Si vous utilisez une résolution de 1920x1080 pixels aller dans : /recalbox/share/system/configs/retroarch/rb-pack-vectrex-1080
-
-- Copier le répertoire 'vectrex' dans : /recalbox/share/system/configs/retroarch
-
-- ATTENTION : Le nom de vos ROM Vectrex doit correspondre à la préconfiguration de l'overlay.
-
-Exemple : Pour afficher l'overlay de Bedlam votre ROM doit être nommée ainsi 'Bedlam (USA, Europe).zip'.
-
-![Bedlam pack Vectrex](https://raw.githubusercontent.com/gallyg/zover4recalbox-vectrex/master/overlays/pack-vectrex-720/Bedlam%20(USA%2C%20Europe).png)
-
-- [Téléchargez ici le pack Vectrex](https://github.com/gallyg/zover4recalbox-vectrex/archive/master.zip)
-
-- *Crédits :MarbleMad (Team ScreenZone), Chris Parsons*
-
-
 Aperçu pack 06 - SNES mini (4/3)
 --------------------------------
 Les 11 styles de SNES mini sont disponibles pour un affichage 4/3.
@@ -222,15 +188,50 @@ Aperçu pack 08 (4/3)
 
 *Crédits : Gally*
 
-Aperçu pack Arcade artwork
---------------------------
+
+Aperçu pack handhelds (consoles portables)
+------------------------------------------
+![Gameboy pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalbox-handhelds/master/overlays/pack-handhelds-clean-720/gb.png)
+![Gameboy Color pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalBox-handhelds/master/overlays/pack-handhelds-clean-720/gbc.png)
+![Game Gear pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalBox-handhelds/master/overlays/pack-handhelds-clean-720/gg.png)
+
+- [Téléchargez ici le pack handhelds](https://github.com/gallyg/pack-handhelds/archive/master.zip)
+
+*Crédits : MezzB's (https://sites.google.com/view/mezzb-overlay/home)*
+
+
+Vectrex
+-------
+Bien que l'écran soit monochrome noir et blanc, tous les jeux de la Vectrex étaient fournis avec un filtre en plastique coloré qui devait être glissé devant l'écran.
+
+Les overlays inclus dans ce pack permettent de simuler ces filtres.
+
+Activer les overlays Vectrex :
+- Si vous utilisez une resolution de 1280x720 pixels, aller dans : /recalbox/share/system/configs/retroarch/rb-pack-vectrex-720
+- Si vous utilisez une résolution de 1920x1080 pixels aller dans : /recalbox/share/system/configs/retroarch/rb-pack-vectrex-1080
+
+- Copier le répertoire 'vectrex' dans : /recalbox/share/system/configs/retroarch
+
+- ATTENTION : Le nom de vos ROM Vectrex doit correspondre à la préconfiguration de l'overlay.
+
+Exemple : Pour afficher l'overlay de Bedlam votre ROM doit être nommée ainsi 'Bedlam (USA, Europe).zip'.
+
+![Bedlam pack Vectrex](https://raw.githubusercontent.com/gallyg/zover4recalbox-vectrex/master/overlays/pack-vectrex-720/Bedlam%20(USA%2C%20Europe).png)
+
+- [Téléchargez ici le pack Vectrex](https://github.com/gallyg/zover4recalbox-vectrex/archive/master.zip)
+
+- *Crédits :MarbleMad (Team ScreenZone), Chris Parsons*
+
+
+Aperçu pack "Arcade artwork"
+----------------------------
 Le pack contient 1220 overlays arcade.
 
 Copier le répertoire 'mame' et/ou 'fba_libretro' dans : /recalbox/share/system/configs/retroarch
 
-![19xx](https://raw.githubusercontent.com/gallyg/zover4recalbox-arcade-artwork/master/overlays/pack-arcade-artwork-720/pack-arcade-artwork-720/19xx.png)
-![afighter](https://raw.githubusercontent.com/gallyg/zover4recalbox-arcade-artwork/master/overlays/pack-arcade-artwork-720/pack-arcade-artwork-720/afighter.png)
-![sf2hf](https://raw.githubusercontent.com/gallyg/zover4recalbox-arcade-artwork/master/overlays/pack-arcade-artwork-720/pack-arcade-artwork-720/sf2hf.png)
+![19xx](https://raw.githubusercontent.com/gallyg/zover4recalbox-arcade-artwork/master/overlays/pack-arcade-artwork-720/19xx.png)
+![afighter](https://raw.githubusercontent.com/gallyg/zover4recalbox-arcade-artwork/master/overlayspack-arcade-artwork-720/afighter.png)
+![sf2hf](https://raw.githubusercontent.com/gallyg/zover4recalbox-arcade-artwork/master/overlays/pack-arcade-artwork-720/sf2hf.png)
 
 - [Téléchargez ici le pack Arcade artwork](https://github.com/gallyg/zover4recalbox-arcade-artwork/archive/master.zip)
 
