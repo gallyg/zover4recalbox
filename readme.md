@@ -25,7 +25,7 @@ En raison des nombreux presets, la ZOVER4RECALBOX Collection est séparée en pl
 - [Téléchargez ici le pack 6](https://github.com/gallyg/zover4recalbox-pack-06/archive/master.zip)
 - [Téléchargez ici le pack 8](https://github.com/gallyg/zover4recalbox-pack-08/archive/master.zip)
 - [Téléchargez ici le pack Vectrex](https://github.com/gallyg/zover4recalbox-vectrex/archive/master.zip)
-- [Téléchargez ici le pack handhelds/consoles portables](https://github.com/gallyg/pack-handhelds/archive/master.zip)
+- [Téléchargez ici le pack handhelds/consoles portables](https://github.com/gallyg/zover4recalbox-handhelds/archive/master.zip)
 - [Téléchargez ici le pack Arcade artwork](https://github.com/gallyg/zover4recalbox-arcade-artwork/archive/master.zip)
 
 - Copier les répertoires du pack dans le répertoire suivant de votre Recalbox : /recalbox/share/system/configs/retroarch/
@@ -195,7 +195,7 @@ Aperçu pack handhelds (consoles portables)
 ![Gameboy Color pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalBox-handhelds/master/overlays/pack-handhelds-clean-720/gbc.png)
 ![Game Gear pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalBox-handhelds/master/overlays/pack-handhelds-clean-720/gg.png)
 
-- [Téléchargez ici le pack handhelds](https://github.com/gallyg/pack-handhelds/archive/master.zip)
+- [Téléchargez ici le pack handhelds](https://github.com/gallyg/zover4recalbox-handhelds/archive/master.zip)
 
 *Crédits : MezzB's (https://sites.google.com/view/mezzb-overlay/home)*
 
