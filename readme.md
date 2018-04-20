@@ -4,15 +4,17 @@ Ces packs sont destinés aux écrans ayant une résolution de 1280x720 pixels ou
 
 Ces packs sont une compilation et adapation de differentes sources et artistes (voir Crédits).
 
+**L'utilisation de ces packs dans un produit commercial est strictement interdite.**
+
 
 Activer le "game ratio" personnalisé
-====================================
+------------------------------------
 - Options > Options des jeux > Format jeux : auto
 - Options > Options des jeux > Integer scale" (pixel perfect) : off
 
 
 Installer le pack de d'overlay
-==============================
+------------------------------
 En raison des nombreux presets, la ZOVER4RECALBOX Collection est séparée en plusieurs volumes.
 
 - [Téléchargez ici le pack 1](https://github.com/gallyg/zover4recalbox-pack-01/archive/master.zip)
@@ -23,15 +25,16 @@ En raison des nombreux presets, la ZOVER4RECALBOX Collection est séparée en pl
 - [Téléchargez ici le pack 6](https://github.com/gallyg/zover4recalbox-pack-06/archive/master.zip)
 - [Téléchargez ici le pack 8](https://github.com/gallyg/zover4recalbox-pack-08/archive/master.zip)
 - [Téléchargez ici le pack Vectrex](https://github.com/gallyg/zover4recalbox-vectrex/archive/master.zip)
-- [Téléchargez ici le pack handhelds](https://github.com/gallyg/pack-handhelds/archive/master.zip)
+- [Téléchargez ici le pack handhelds/consoles portables](https://github.com/gallyg/pack-handhelds/archive/master.zip)
+- [Téléchargez ici le pack Arcade artwork](https://github.com/gallyg/zover4recalbox-arcade-artwork/archive/master.zip)
 
 - Copier les répertoires du pack dans le répertoire suivant de votre Recalbox : /recalbox/share/system/configs/retroarch/
 - Le répertoire 'overlays' contient les élements graphiques
 - Le répertoire 'zover4recalbox-presets' contient les préconfigurations
-
+- Les different packs peuvent être mixés
 
 Choisir les fichiers de configuration adaptés (.cfg)
-====================================================
+----------------------------------------------------
 Nomenclature des répertoires : pack[NUMERO]-[STYLE]-systems-[TAILLE] :
 - [NUMERO] correspond au numéro du pack,
 - [STYLE] Deux styles selon les variantes. Le style 'grid' qui inclus un effet de grille/CRT. Le style 'clean' sans effet de grille.
@@ -45,14 +48,14 @@ Exemple avec le pack 01 sans effet de grille/CRT :
 
 
 Arcade affichage vertical
-=========================
+-------------------------
 Certains packs contiennent des dossiers 'fba_libretro' et 'mame' pour gerer de façon spécifique les titres ayants un affichage vertical (Exemple : 1941, 1942 ou 1943).
 
 Ces dossiers sont à copier dans le répertoire suivant de votre Recalbox : /recalbox/share/system/configs/retroarch/
 
 
 Aperçu pack 01
-==============
+--------------
 ![3DO pack 01](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-01/master/overlays/pack01-clean-720/3do.png)
 ![Atari 2600 pack 01](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-01/master/overlays/pack01-clean-720/atari2600.png)
 ![Megadrive pack 01](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-01/master/overlays/pack01-clean-720/megadrive.png)
@@ -60,9 +63,11 @@ Aperçu pack 01
 
 - [Téléchargez ici le pack 1](https://github.com/gallyg/zover4recalbox-pack-01/archive/master.zip)
 
+*Crédits : MarbleMad (Team ScreenZone), Kam3leon (Team ScreenZone)*
+
 
 Aperçu pack 02 (4/3 - pixel perfect)
-====================================
+------------------------------------
 Machines pixel perfect : Master System, Megadrive, Neo-Geo, NES, PC Engine, PC Engine CD, Sega 32X, Sega CD, SuperGrafx.
 Pour les machines "pixel perfect" citées ci-dessus, les presets 4/3 sont disponibles dans le sous-répertoire '4-3-presets'.
 
@@ -71,9 +76,11 @@ Pour les machines "pixel perfect" citées ci-dessus, les presets 4/3 sont dispon
 
 - [Téléchargez ici le pack 2](https://github.com/gallyg/zover4recalbox-pack-02/archive/master.zip)
 
+*Crédits : MezzB's (https://sites.google.com/view/mezzb-overlay/home)*
+
 
 Aperçu pack 03 (4/3 - pixel perfect)
-====================================
+------------------------------------
 Machines pixel perfect : Master System, Megadrive, Neo-Geo, NES, PC Engine, PC Engine CD, Sega 32X, Sega CD, SuperGrafx.
 Pour les machines "pixel perfect" citées ci-dessus, les presets 4/3 sont disponibles dans le sous-répertoire '4-3-presets'.
 
@@ -82,9 +89,11 @@ Pour les machines "pixel perfect" citées ci-dessus, les presets 4/3 sont dispon
 
 - [Téléchargez ici le pack 3](https://github.com/gallyg/zover4recalbox-pack-03/archive/master.zip)
 
+*Crédits : MezzB's (https://sites.google.com/view/mezzb-overlay/home)*
+
 
 Aperçu pack 04 (4/3 - pixel perfect)
-====================================
+------------------------------------
 Machines pixel perfect : Master System, Megadrive, Neo-Geo, NES, PC Engine, PC Engine CD, Sega 32X, Sega CD, SuperGrafx.
 Pour les machines "pixel perfect" citées ci-dessus, les presets 4/3 sont disponibles dans le sous-répertoire '4-3-presets'.
 
@@ -93,26 +102,32 @@ Pour les machines "pixel perfect" citées ci-dessus, les presets 4/3 sont dispon
 
 - [Téléchargez ici le pack 4](https://github.com/gallyg/zover4recalbox-pack-04/archive/master.zip)
 
+*Crédits : MezzB's (https://sites.google.com/view/mezzb-overlay/home)*
+
 
 Aperçu pack 05 - Arcade (4/3)
-=============================
+-----------------------------
 ![4/3 pack 05](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-05/master/overlays/pack05-grid-1080/4-3.png)
 ![3/4 pack 05](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-05/master/overlays/pack05-grid-1080/3-4.png)
 
 - [Téléchargez ici le pack 5](https://github.com/gallyg/zover4recalbox-pack-05/archive/master.zip)
 
+*Crédits : MezzB's (https://sites.google.com/view/mezzb-overlay/home)*
+
 
 Aperçu pack handhelds (consoles portables)
-==========================================
-![Gameboy pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack-handhelds-clean-720/gb.png)
-![Gameboy Color pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack-handhelds-clean-720/gbc.png)
-![Game Gear pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalBox-vol-1/master/overlays/pack-handhelds-clean-720/gg.png)
+------------------------------------------
+![Gameboy pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalbox-handhelds/master/overlays/pack-handhelds-clean-720/gb.png)
+![Gameboy Color pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalBox-handhelds/master/overlays/pack-handhelds-clean-720/gbc.png)
+![Game Gear pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalBox-handhelds/master/overlays/pack-handhelds-clean-720/gg.png)
 
 - [Téléchargez ici le pack handhelds](https://github.com/gallyg/pack-handhelds/archive/master.zip)
 
+*Crédits : MezzB's (https://sites.google.com/view/mezzb-overlay/home)*
+
 
 Vectrex
-=======
+-------
 Bien que l'écran soit monochrome noir et blanc, tous les jeux de la Vectrex étaient fournis avec un filtre en plastique coloré qui devait être glissé devant l'écran.
 
 Les overlays inclus dans ce pack permettent de simuler ces filtres.
@@ -131,82 +146,102 @@ Exemple : Pour afficher l'overlay de Bedlam votre ROM doit être nommée ainsi '
 
 - [Téléchargez ici le pack Vectrex](https://github.com/gallyg/zover4recalbox-vectrex/archive/master.zip)
 
+- *Crédits :MarbleMad (Team ScreenZone), Chris Parsons*
 
-Aperçu pack 06 - SNES mini (4/3) (volume 2)
-===========================================
+
+Aperçu pack 06 - SNES mini (4/3)
+--------------------------------
 Les 11 styles de SNES mini sont disponibles pour un affichage 4/3.
 
 Le pack 06 contient des sous-répertoires qui correspondent à chaque style.
 
 Copier l'ensemble les fichiers .cfg (3do.cfg, amstradcpc.cfg, etc) dans : /recalbox/share/system/configs/retroarch
 
-01-ambient
-----------
+### 01-ambient
 ![4/3 01-ambient pack 06](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-06/master/overlays/pack06-grid-720/01-ambient/4-3.png)
-02-wire
--------
+
+### 02-wire
 ![4/3 02-wire pack 06](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-06/master/overlays/pack06-grid-720/02-wire/4-3.png)
-03-crystal
-----------
+
+### 03-crystal
 ![4/3 03-crystal pack 06](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-06/master/overlays/pack06-grid-720/03-crystal/4-3.png)
-04-dot
-------
+
+### 04-dot
 ![4/3 04-dot pack 06](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-06/master/overlays/pack06-grid-720/04-dot/4-3.png)
-05-mosaic
----------
+
+### 05-mosaic
 ![4/3 05-mosaic pack 06](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-06/master/overlays/pack06-grid-720/05-mosaic/4-3.png)
-06-dot2
--------
+
+### 06-dot2
 ![4/3 06-dot2 pack 06](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-06/master/overlays/pack06-grid-720/06-dot2/4-3.png)
-07-wood
--------
+
+### 07-wood
 ![4/3 07-wood pack 06](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-06/master/overlays/pack06-grid-720/07-wood/4-3.png)
-08-space
---------
+
+### 08-space
 ![4/3 08-space pack 06](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-06/master/overlays/pack06-grid-720/08-space/4-3.png)
-09-speaker
-----------
+
+### 09-speaker
 ![4/3 09-speaker pack 06](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-06/master/overlays/pack06-grid-720/09-speaker/4-3.png)
-10-curtain
-----------
+
+### 10-curtain
 ![4/3 10-curtain pack 06](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-06/master/overlays/pack06-grid-720/10-curtain/4-3.png)
-11-midnight
------------
+
+### 11-midnight
 ![4/3 11-midnight pack 06](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-06/master/overlays/pack06-grid-720/11-midnight/4-3.png)
 
 - [Téléchargez ici le pack 6](https://github.com/gallyg/zover4recalbox-pack-06/archive/master.zip)
 
 
-Aperçu pack 07 (4/3) (volume 2)
-===============================
+Aperçu pack 07 (4/3)
+--------------------
 Coming soon...
 
-Aperçu pack 08 (4/3) (volume 2)
-===============================
-01-Retour vers le futur
------------------------
+
+Aperçu pack 08 (4/3)
+--------------------
+### 01-Retour vers le futur
 ![4/3 01-Retour vers le futur pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-08/master/overlays/pack08-clean-720/01-retour-vers-le-futur/4-3.png)
-02-Cobra
---------
+
+### 02-Cobra
 ![4/3 02-Cobra pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-08/master/overlays/pack08-clean-720/02-cobra/4-3.png)
-03-Gally
---------
+
+### 03-Gally
 ![4/3 03-Gally pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-08/master/overlays/pack08-clean-720/03-gally/4-3.png)
-04-Ken le survivant
--------------------
+
+### 04-Ken le survivant
 ![4/3 04-Ken le survivant pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-08/master/overlays/pack08-clean-720/04-ken-le-survivant/4-3.png)
-05-Ghost in the shell
----------------------
+
+### 05-Ghost in the shell
 ![4/3 05-Ghost in the shell pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-08/master/overlays/pack08-clean-720/05-ghost-in-the-shell/4-3.png)
-06 My little poney
-------------------
+
+### 06 My little poney
 ![4/3 06 My little poney pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-08/master/overlays/pack08-clean-720/06-my-little-poney/4-3.png)
 
 - [Téléchargez ici le pack 8](https://github.com/gallyg/zover4recalbox-pack-08/archive/master.zip)
 
+*Crédits : Gally*
+
+Aperçu pack Arcade artwork
+--------------------------
+Le pack contient 1220 overlays arcade.
+
+Copier le répertoire 'mame' et/ou 'fba_libretro' dans : /recalbox/share/system/configs/retroarch
+
+![19xx](https://raw.githubusercontent.com/gallyg/zover4recalbox-arcade-artwork/master/overlays/pack-arcade-artwork-720/pack-arcade-artwork-720/19xx.png)
+![afighter](https://raw.githubusercontent.com/gallyg/zover4recalbox-arcade-artwork/master/overlays/pack-arcade-artwork-720/pack-arcade-artwork-720/afighter.png)
+![sf2hf](https://raw.githubusercontent.com/gallyg/zover4recalbox-arcade-artwork/master/overlays/pack-arcade-artwork-720/pack-arcade-artwork-720/sf2hf.png)
+
+- [Téléchargez ici le pack Arcade artwork](https://github.com/gallyg/zover4recalbox-arcade-artwork/archive/master.zip)
+
+*Crédits : Cosmo0, Mamehead, Derek Moore, UDb23 and Simbz33 creations and compilations.*
+
 
 Changelog
 =========
+
+version 18.04.20
+- Add Arcade artwork
 
 version 18.04.19
 - Split in 9 volumes
@@ -231,19 +266,21 @@ version 1.0.0
 - Initial release
 
 
-Credits
+Crédits
 =======
 https://github.com/recalbox/recalbox-os/wiki/Retroarch-setup-overlays-(FR)
 
 Bezels Systèmes :
 - MarbleMad (Team ScreenZone)
 - Kam3leon (Team ScreenZone)
-- Orions angel (https://www.youtube.com/channel/UCG1g7PE9yzd4MboQQa9OYWA)
 - MezzB's (https://sites.google.com/view/mezzb-overlay/home)
 
 Bezels Vectrex :
 - MarbleMad (Team ScreenZone)
 - Chris Parsons (https://drive.google.com/drive/u/0/folders/0BwUJ62zB09ZVakg1b0tuM0VUNFE)
+
+Arcade artwork :
+- Cosmo0 (https://github.com/cosmo0/retropie-overlays-arcade-artwork)
 
 
 License
