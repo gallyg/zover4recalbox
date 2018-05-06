@@ -167,22 +167,22 @@ Coming soon...
 Aperçu pack 08 (4/3)
 --------------------
 ### 01-Retour vers le futur
-![4/3 01-Retour vers le futur pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-08/master/overlays/pack08-clean-720/01-retour-vers-le-futur/4-3.png)
+![4/3 01-Retour vers le futur pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-08/master/overlays/pack08-clean/01-retour-vers-le-futur/4-3.png)
 
 ### 02-Cobra
-![4/3 02-Cobra pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-08/master/overlays/pack08-clean-720/02-cobra/4-3.png)
+![4/3 02-Cobra pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-08/master/overlays/pack08-clean/02-cobra/4-3.png)
 
 ### 03-Gally
-![4/3 03-Gally pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-08/master/overlays/pack08-clean-720/03-gally/4-3.png)
+![4/3 03-Gally pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-08/master/overlays/pack08-clean/03-gally/4-3.png)
 
 ### 04-Ken le survivant
-![4/3 04-Ken le survivant pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-08/master/overlays/pack08-clean-720/04-ken-le-survivant/4-3.png)
+![4/3 04-Ken le survivant pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-08/master/overlays/pack08-clean/04-ken-le-survivant/4-3.png)
 
 ### 05-Ghost in the shell
-![4/3 05-Ghost in the shell pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-08/master/overlays/pack08-clean-720/05-ghost-in-the-shell/4-3.png)
+![4/3 05-Ghost in the shell pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-08/master/overlays/pack08-clean/05-ghost-in-the-shell/4-3.png)
 
 ### 06 My little poney
-![4/3 06 My little poney pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-08/master/overlays/pack08-clean-720/06-my-little-poney/4-3.png)
+![4/3 06 My little poney pack 08](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-08/master/overlays/pack08-clean/06-my-little-poney/4-3.png)
 
 - [Téléchargez ici le pack 8](https://github.com/gallyg/zover4recalbox-pack-08/archive/master.zip)
 
@@ -229,9 +229,9 @@ Le pack contient 1220 overlays arcade.
 
 Copier le répertoire 'mame' et/ou 'fba_libretro' dans : /recalbox/share/system/configs/retroarch
 
-![19xx](https://raw.githubusercontent.com/gallyg/zover4recalbox-arcade-artwork/master/overlays/pack-arcade-artwork-720/19xx.png)
-![afighter](https://raw.githubusercontent.com/gallyg/zover4recalbox-arcade-artwork/master/overlays/pack-arcade-artwork-720/afighter.png)
-![sf2hf](https://raw.githubusercontent.com/gallyg/zover4recalbox-arcade-artwork/master/overlays/pack-arcade-artwork-720/sf2hf.png)
+![19xx](https://raw.githubusercontent.com/gallyg/zover4recalbox-arcade-artwork/master/overlays/pack-arcade-artwork/19xx.png)
+![afighter](https://raw.githubusercontent.com/gallyg/zover4recalbox-arcade-artwork/master/overlays/pack-arcade-artwork/afighter.png)
+![sf2hf](https://raw.githubusercontent.com/gallyg/zover4recalbox-arcade-artwork/master/overlays/pack-arcade-artwork/sf2hf.png)
 
 - [Téléchargez ici le pack Arcade artwork](https://github.com/gallyg/zover4recalbox-arcade-artwork/archive/master.zip)
 
@@ -240,6 +240,9 @@ Copier le répertoire 'mame' et/ou 'fba_libretro' dans : /recalbox/share/system/
 
 Changelog
 =========
+
+Version 18.05.06
+- Changes folders pack 08 and Arcade
 
 version 18.04.20
 - Add Arcade artwork
