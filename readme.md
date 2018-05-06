@@ -56,10 +56,10 @@ Ces dossiers sont à copier dans le répertoire suivant de votre Recalbox : /rec
 
 Aperçu pack 01
 --------------
-![3DO pack 01](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-01/master/overlays/pack01-clean-720/3do.png)
-![Atari 2600 pack 01](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-01/master/overlays/pack01-clean-720/atari2600.png)
-![Megadrive pack 01](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-01/master/overlays/pack01-clean-720/megadrive.png)
-![Super Nintendo pack 01](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-01/master/overlays/pack01-clean-720/snes.png)
+![3DO pack 01](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-01/master/overlays/pack01-clean/3do.png)
+![Atari 2600 pack 01](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-01/master/overlays/pack01-clean/atari2600.png)
+![Megadrive pack 01](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-01/master/overlays/pack01-clean/megadrive.png)
+![Super Nintendo pack 01](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-01/master/overlays/pack01-clean/snes.png)
 
 - [Téléchargez ici le pack 1](https://github.com/gallyg/zover4recalbox-pack-01/archive/master.zip)
 
@@ -242,7 +242,7 @@ Changelog
 =========
 
 Version 18.05.06
-- Changes folders pack 08 and Arcade
+- Changes folders pack 01, pack 08, and pack Arcade
 
 version 18.04.20
 - Add Arcade artwork
