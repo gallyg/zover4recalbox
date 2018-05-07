@@ -71,8 +71,8 @@ Aperçu pack 02 (4/3 - pixel perfect)
 Machines pixel perfect : Master System, Megadrive, Neo-Geo, NES, PC Engine, PC Engine CD, Sega 32X, Sega CD, SuperGrafx.
 Pour les machines "pixel perfect" citées ci-dessus, les presets 4/3 sont disponibles dans le sous-répertoire '4-3-presets'.
 
-![4/3 pack 02](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-02/master/overlays/pack02-clean-720/4-3.png)
-![GBA pack 02](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-02/master/overlays/pack02-clean-720/gba-lg.png)
+![4/3 pack 02](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-02/master/overlays/pack02-clean/4-3.png)
+![GBA pack 02](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-02/master/overlays/pack02-clean/gba-lg.png)
 
 - [Téléchargez ici le pack 2](https://github.com/gallyg/zover4recalbox-pack-02/archive/master.zip)
 
