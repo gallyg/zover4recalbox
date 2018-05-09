@@ -97,8 +97,8 @@ Aperçu pack 04 (4/3 - pixel perfect)
 Machines pixel perfect : Master System, Megadrive, Neo-Geo, NES, PC Engine, PC Engine CD, Sega 32X, Sega CD, SuperGrafx.
 Pour les machines "pixel perfect" citées ci-dessus, les presets 4/3 sont disponibles dans le sous-répertoire '4-3-presets'.
 
-![4/3 pack 04](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-04/master/overlays/pack04-clean-720/4-3.png)
-![GBA pack 04](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-04/master/overlays/pack04-clean-720/gba-lg.png)
+![4/3 pack 04](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-04/master/overlays/pack04-clean/4-3.png)
+![GBA pack 04](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-04/master/overlays/pack04-clean/gba-lg.png)
 
 - [Téléchargez ici le pack 4](https://github.com/gallyg/zover4recalbox-pack-04/archive/master.zip)
 
@@ -107,8 +107,8 @@ Pour les machines "pixel perfect" citées ci-dessus, les presets 4/3 sont dispon
 
 Aperçu pack 05 - Arcade (4/3)
 -----------------------------
-![4/3 pack 05](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-05/master/overlays/pack05-grid-1080/4-3.png)
-![3/4 pack 05](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-05/master/overlays/pack05-grid-1080/3-4.png)
+![4/3 pack 05](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-05/master/overlays/pack05-grid/4-3.png)
+![3/4 pack 05](https://raw.githubusercontent.com/gallyg/zover4recalBox-pack-05/master/overlays/pack05-grid/3-4.png)
 
 - [Téléchargez ici le pack 5](https://github.com/gallyg/zover4recalbox-pack-05/archive/master.zip)
 
