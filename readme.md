@@ -225,7 +225,7 @@ Exemple : Pour afficher l'overlay de Bedlam votre ROM doit être nommée ainsi '
 
 Aperçu pack "Arcade artwork"
 ----------------------------
-Le pack contient 1220 overlays arcade.
+Le pack contient 1236 overlays arcade.
 
 Copier le répertoire 'mame' et/ou 'fba_libretro' dans : /recalbox/share/system/configs/retroarch
 
@@ -240,6 +240,9 @@ Copier le répertoire 'mame' et/ou 'fba_libretro' dans : /recalbox/share/system/
 
 Changelog
 =========
+
+Version 18.05.10
+- Fix pack Arcade and add pack Arcade artwork
 
 Version 18.05.06
 - Changes folders pack 01, pack 08, and pack Arcade
