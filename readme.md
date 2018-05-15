@@ -31,7 +31,7 @@ En raison des nombreux presets, la ZOVER4RECALBOX Collection est séparée en pl
 - Copier les répertoires du pack dans le répertoire suivant de votre Recalbox : /recalbox/share/system/configs/retroarch/
 - Le répertoire 'overlays' contient les élements graphiques
 - Le répertoire 'zover4recalbox-presets' contient les préconfigurations
-- Les different packs peuvent être mixés
+- Les differents packs peuvent être mixés
 
 Choisir les fichiers de configuration adaptés (.cfg)
 ----------------------------------------------------
