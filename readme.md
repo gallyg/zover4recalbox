@@ -207,8 +207,8 @@ Bien que l'écran soit monochrome noir et blanc, tous les jeux de la Vectrex ét
 Les overlays inclus dans ce pack permettent de simuler ces filtres.
 
 Activer les overlays Vectrex :
-- Si vous utilisez une resolution de 1280x720 pixels, aller dans : /recalbox/share/system/configs/retroarch/rb-pack-vectrex-720
-- Si vous utilisez une résolution de 1920x1080 pixels aller dans : /recalbox/share/system/configs/retroarch/rb-pack-vectrex-1080
+- Si vous utilisez une resolution de 1280x720 pixels, aller dans : /recalbox/share/system/configs/retroarch/zover4recalbox-presets/pack-vectrex-720
+- Si vous utilisez une résolution de 1920x1080 pixels aller dans : /recalbox/share/system/configs/retroarch/zover4recalbox-presets/pack-vectrex-1080
 
 - Copier le répertoire 'vectrex' dans : /recalbox/share/system/configs/retroarch
 
