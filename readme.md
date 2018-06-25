@@ -191,9 +191,9 @@ Aperçu pack 08 (4/3)
 
 Aperçu pack handhelds (consoles portables)
 ------------------------------------------
-![Gameboy pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalbox-handhelds/master/overlays/pack-handhelds-clean-720/gb.png)
-![Gameboy Color pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalBox-handhelds/master/overlays/pack-handhelds-clean-720/gbc.png)
-![Game Gear pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalBox-handhelds/master/overlays/pack-handhelds-clean-720/gg.png)
+![Gameboy pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalbox-handhelds/master/overlays/pack-handhelds-clean/gb.png)
+![Gameboy Color pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalBox-handhelds/master/overlays/pack-handhelds-clean/gbc.png)
+![Game Gear pack handhelds](https://raw.githubusercontent.com/gallyg/zover4recalBox-handhelds/master/overlays/pack-handhelds-clean/gg.png)
 
 - [Téléchargez ici le pack handhelds](https://github.com/gallyg/zover4recalbox-handhelds/archive/master.zip)
 
@@ -216,7 +216,7 @@ Activer les overlays Vectrex :
 
 Exemple : Pour afficher l'overlay de Bedlam votre ROM doit être nommée ainsi 'Bedlam (USA, Europe).zip'.
 
-![Bedlam pack Vectrex](https://raw.githubusercontent.com/gallyg/zover4recalbox-vectrex/master/overlays/pack-vectrex-720/Bedlam%20(USA%2C%20Europe).png)
+![Bedlam pack Vectrex](https://raw.githubusercontent.com/gallyg/zover4recalbox-vectrex/master/overlays/pack-vectrex/Bedlam%20(USA%2C%20Europe).png)
 
 - [Téléchargez ici le pack Vectrex](https://github.com/gallyg/zover4recalbox-vectrex/archive/master.zip)
 
@@ -240,6 +240,9 @@ Copier le répertoire 'mame' et/ou 'fba_libretro' dans : /recalbox/share/system/
 
 Changelog
 =========
+
+Version 18.06.25
+- Fix pack Arcade transparency
 
 Version 18.05.10
 - Fix pack Arcade and add pack Arcade artwork
